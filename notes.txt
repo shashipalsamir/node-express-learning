@@ -1,0 +1,49 @@
+गीता से ज्ञान मिला, रामायण से श्री राम ||
+भाग्य से हिंदू धर्म मिला, किस्मत से हिंदुस्तान ||
+
+NodeJs
+// REPL
+// 1: js expression
+// 2: use variables
+// 3: Multiline code
+// 4: use (_) to get last result
+// 5: editor mode (cmd: .editor)
+
+create file command in REPL: type nul > filename.js
+
+Study about AWS(Amazon Web Services)
+What is CRUD application and its example to learn.
+	- with nodejs, express and mongodb [https://zellwk.com/blog/crud-express-mongodb/]
+	- with mongodb, express, reactjs and nodejs (MERN Application)
+
+What is Module Wrapper Function in NodeJs and JavaScript?
+
+HTML page with routing in NODEjs Only
+
+JSON stringify and parse method
+
+what is parameter and argument in function.
+What is callback function?
+	- when you pass any function as an argument is called callback function. and it triggeres only when task completed
+	
+Module wrapper function and IIFE(Immediately Invoked Function Expression)function
+
+
+Create Video Streaming in NODEjs
+Learn when to use event Module with 
+Create Rest API and get data from using Mongo DB in node JS
+
+
+
+How to Develop Web Application using pure Node.js (HTTP GET and POST, HTTP Server)
+https://www.youtube.com/watch?v=nuw48-u3Yrg
+
+OTHER NOTES:
+Things to Learn
+- Facebook, LinkedIn, Twitter and Youtube Integration
+- Okta Integration
+- Webflow Site Builder
+
+Things ToDos
+Social Feed Popups in site builder section
+Registration Type Count in Bar in flow chart
