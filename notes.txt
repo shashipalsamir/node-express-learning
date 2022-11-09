@@ -47,3 +47,7 @@ Things to Learn
 Things ToDos
 Social Feed Popups in site builder section
 Registration Type Count in Bar in flow chart
+
+
+API List
+Weather Map - https://openweathermap.org/api
